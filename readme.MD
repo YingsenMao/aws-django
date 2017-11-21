@@ -16,3 +16,13 @@ install the package by
 ```
 pip install django==1.9.12
 ```
+If get a *PermissionError: [WinError 5] Access is denied*, try
+```
+python -m pip install django
+easy_install django
+```
+List all libraries installed, run
+```
+pip freeze
+pip list
+```
