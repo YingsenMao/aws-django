@@ -1,3 +1,5 @@
+## Introduction to AWS Elastic Beanstalk(EB)
+Complex shapes can be created using shape generator. [reference](https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction)  
 The packages required are:
 * Python 3.4
 * pip
